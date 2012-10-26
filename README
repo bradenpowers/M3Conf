@@ -1,1 +1,15 @@
-Basic "Hello, World!" application using the Alloy MVC framework.
+This is the sample app for the M3Confernce.
+
+To get started please have the following installed:
+
+Titanium
+Xcode
+Node
+
+install alloy by using: npm install alloy
+
+To import this project just launch Ti Studio and go to file->import project and follow the prompts.
+
+
+You can learn more about alloy here:
+http://docs.appcelerator.com/titanium/3.0/index.html#!/guide/Alloy_Framework
